@@ -1,2 +1,14 @@
-Decide which business to order from
-Decide which type pizza to order 
+look up pizza place
+choose a pizza place
+order pizza
+wait for the pizza to arrive
+pay for pizza
+eat pizza
+netflix
+sleep
+heat up leaftover pizza
+eat more pizza
+watch more netflix
+take a walk
+walk or talk
+run fast
